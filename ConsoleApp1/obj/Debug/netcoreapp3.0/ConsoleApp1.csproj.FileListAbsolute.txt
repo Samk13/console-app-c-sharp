@@ -1,0 +1,11 @@
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\work\code\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
